@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stilt1234
-- 👀 I’m interested in learning Unity and making games.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 Reach me on GitHub.
 
